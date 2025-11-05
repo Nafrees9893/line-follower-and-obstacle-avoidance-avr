@@ -4,7 +4,7 @@ This repo contains two versions of my line-following robot built **without a dev
 1) **Line Follower (V1)** – simulated in Proteus and tested on real hardware  
 2) **Line Follower + Obstacle Detection (V2)** – real hardware verified
 
-https://github.com/<your-username>/<repo-name>
+https://github.com/Nafrees9893/line-follower-and-obstacle-avoidance-avr.git
 
 ---
 
